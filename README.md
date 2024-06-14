@@ -1,4 +1,8 @@
+# Next.js + Tailwind CSS + TypeScript + ESLint + Prettier + Jest + React Testing Library
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+RoomMate is a web application that helps you find a room, house, or apartment to rent. It is a platform that connects people looking for a place to live with those who have a place to rent. It is a simple and easy-to-use platform that allows you to find the perfect place to live.
 
 ## Getting Started
 
