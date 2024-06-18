@@ -1,4 +1,6 @@
-export default function Home() {
+import React from "react";
+
+function Inicio() {
   return (
     <div
       className="
@@ -13,3 +15,5 @@ export default function Home() {
     </div>
   );
 }
+
+export default Inicio;
